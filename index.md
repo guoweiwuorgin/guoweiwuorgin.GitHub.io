@@ -1,43 +1,15 @@
-创建人 | 修改人
------- | ------
-吴国伟 | 吴国伟
 
 # 吴国伟毕业论文数据分析可重复项目
 
-# **1. 实验简介** 
-
-  本研究通过一个词汇理解的图词stroop实验考察了口吃者在不同水平的注意需求下对同一个词汇语义理解任务的表现及其与非口吃者的差异。  
+| creater | modified|
+| guoweiwu | guoweiwu|  
   
-  实验由两个两因素两水平的设计组成：  
+**This goal of this porject is replicating guoweiwu's artical for master degree**  
   
-  （1）低注意需求条件下两组被试的比较:  
-|组别 | 条件|   
-|---- | --- |   
-|口吃 Vs 对照 | 启动 Vs 基线|  
- 
-  （2）高注意需求条件下两组被试的比较:
-|组别 | 条件|  
-|---- | --- |  
-|口吃 Vs 对照 | 抑制 Vs 基线|  
-
-## 1.1 实验设计
+# 1. Experiment Design
+In current study, we used a picture-word stroop for perceptual experiment to investigate the behavioral performances and brain activations  
+in stutters and non-stutters using a lexical-semantic task with different levels of attention allocations.  
+The experiment consisted of two two-factor by two-level designs:   
+(1) 2 (condition: prime/ non-prime) * 2 (group: stuttering/ control), i.e., low-level attention allocation condition;   
+(2) 2 (condition: inhibition/ non-inhibition) * 2 (group: stuttering/ control), i.e., high-level attention allocation condition. 
   
-   
-## 1.2 被试和测量
-
-# **2. 行为学数据分析**
-
-## 2.1 分析工具包
-
-## 2.2 分析流程 
-
-# **3. 脑成像数据分析**
-
-## 3.1分析工具包
-
-## 3.2预处理流程
-
-## 3.3GLM模型构建
-
-  
-

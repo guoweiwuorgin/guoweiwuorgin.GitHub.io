@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 吴国伟毕业论文数据分析可重复项目
+1. 实验简介 1
+  1. 实验设计 1a
+  1. 被试和测量 1b
+1. 行为学数据分析 2
+  1. 分析工具包 2a
+  1. 分析流程 2b
+1. 脑成像数据分析 3
+  1. 分析工具包 3a
+  1. 预处理流程 3b
+  1. GLM模型构建 3c
+  
 
-You can use the [editor on GitHub](https://github.com/guoweiwuorgin/guoweiwuorgin.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 研究生毕业论文—数据处理全流程
-## 行为数据处理代码
-### 脑成像数据处理代码
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guoweiwuorgin/guoweiwuorgin.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
